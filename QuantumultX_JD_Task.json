@@ -3,209 +3,209 @@
     "name": "Zeal4Rea JD Task Gallery",
     "task": [
         {
-            "config": "1 0,11,21 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jump.js, tag=跳跳乐瓜分京豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "1 0,11,21 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jump.js, tag=跳跳乐瓜分京豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "20 9 21-27 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js, tag=Redmi->合成小金刚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "20 9 21-27 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js, tag=Redmi->合成小金刚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "20 9 20-31 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_martin.js, tag=人头马x博朗, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "20 9 20-31 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_martin.js, tag=人头马x博朗, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "25 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js, tag=赢一加新品手机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "25 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js, tag=赢一加新品手机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js, tag=飞利浦电视成长记, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js, tag=飞利浦电视成长记, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "5 8,14,20 19-25 5 *  https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js, tag=母婴-跳一跳, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "5 8,14,20 19-25 5 *  https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js, tag=母婴-跳一跳, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "5 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融活动, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "5 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融活动, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_zjd_tuan.js, tag=京东赚京东开团, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 0,1-22/2 1-31 4-7 * https://raw.githubusercontent.com/pxylen/abc_/master/workflow/chenzhe/monk_pasture.js, tag=有机牧场, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0 0,1-22/2 1-31 4-7 * https://raw.githubusercontent.com/pxylen/abc_/master/workflow/chenzhe/monk_pasture.js, tag=有机牧场, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "1 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "1 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "30 16-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点京豆雨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "30 16-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点京豆雨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "30 0,30 * * * * https://raw.githubusercontent.com/xbt370/Collection/master/Script/jd_live_lottery_social.js, tag=直播间抽奖, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "30 0,30 * * * * https://raw.githubusercontent.com/xbt370/Collection/master/Script/jd_live_lottery_social.js, tag=直播间抽奖, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "13 1,22,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_lottery.js, tag=每日抽奖, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "13 1,22,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_lottery.js, tag=每日抽奖, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "1 8,12,18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "1 8,12,18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "2 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "2 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "5 0,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "5 0,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 9 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 9 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_bonus.js, tag=监控crazyJoy分红, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_bonus.js, tag=监控crazyJoy分红, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 1,12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_coin.js, tag=crazyJoy挂机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 1,12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_coin.js, tag=crazyJoy挂机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "1 12,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_family.js, tag=京东家庭号, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "1 12,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_family.js, tag=京东家庭号, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "5 6-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "5 6-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_fruit.js, tag=东东农场, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "13 1,22 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "13 1,22 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "5-45/20 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "5-45/20 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "15 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "15 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "15 0-23/1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "15 0-23/1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 0-16/8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0 0-16/8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
             "addons": "https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/JD_Joy_help.txt, tag=宠汪汪助力",
-            "config": "15 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "15 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 0-21/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 0-21/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "40 8,16,20 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js, tag=京小兑, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "40 8,16,20 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js, tag=京小兑, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10-20/5 12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live.js, tag=京东直播, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10-20/5 12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live.js, tag=京东直播, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0,30 0-23/1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0,30 0-23/1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js, tag=超级直播间红包雨, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js, tag=幸运大转盘, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js, tag=幸运大转盘, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "3 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_moneyTree.js, tag=京东摇钱树, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "3 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_moneyTree.js, tag=京东摇钱树, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_ms.js, tag=京东秒秒币, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 0,20 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 0,20 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_necklace.js, tag=点点券, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "35 1,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "35 1,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "15 6-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "15 6-18/6 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "12 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pigPet.js, tag=京东金融养猪猪, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "12 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pigPet.js, tag=京东金融养猪猪, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "1 7-21/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_plantBean.js, tag=京东种豆得豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "1 7-21/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_plantBean.js, tag=京东种豆得豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_price.js, tag=京东保价, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0 2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_price.js, tag=京东保价, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "1 1,2,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "1 1,2,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "20 8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "20 8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_sgmh.js, tag=闪购盲盒, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "16 22 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_small_home.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "16 22 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_small_home.js, tag=东东小窝, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "8 0-23/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed.js, tag=天天加速, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "8 0-23/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed.js, tag=天天加速, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "0 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "11 1-23/5 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "11 1-23/5 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 0,7,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 0,7,23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "20 13 * * 6 https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jd.png"
+            "config": "20 13 * * 6 https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "5 0,8,13,19 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jingxi.png"
+            "config": "5 0,8,13,19 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         },
         {
-            "config": "0 0 0 * * * https://raw.githubusercontent.com/LucaLin233/QuantumultX-Personal-Configuration/main/Profile/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jingxi.png"
+            "config": "0 0 0 * * * https://raw.githubusercontent.com/LucaLin233/QuantumultX-Personal-Configuration/main/Profile/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         },
         {
-            "config": "10 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_dreamFactory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jingxi.png"
+            "config": "10 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_dreamFactory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         },
         {
-            "config": "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jingxi.png"
+            "config": "0 1,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         },
         {
-            "config": "1 9,12,18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxnc.js, tag=京喜农场1, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jingxi.png"
+            "config": "1 9,12,18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxnc.js, tag=京喜农场1, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         },
         {
-            "config": "5 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场2, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jingxi.png"
+            "config": "5 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场2, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         },
         {
-            "config": "5 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/jingxi.png"
+            "config": "5 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         }
     ]
 }

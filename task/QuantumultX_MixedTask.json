@@ -53,7 +53,7 @@
             "config": "*/14 5-23 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, enabled=true, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png"
         },
         {
-            "config": "55 23 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=BoxJs备份gist, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png"
+            "config": "55 23 */2 * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=BoxJs备份gist, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png"
         },
         {
             "config": "0 0 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=BoxJs恢复gist, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png"

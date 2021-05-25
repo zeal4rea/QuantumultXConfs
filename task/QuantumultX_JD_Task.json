@@ -87,7 +87,7 @@
             "config": "10 12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_bonus.js, tag=监控crazyJoy分红, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "10 1,12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_coin.js, tag=crazyJoy挂机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+            "config": "10 1,12 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_coin.js, tag=crazyJoy挂机, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png, enabled=false"
         },
         {
             "config": "10 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
@@ -196,7 +196,7 @@
             "config": "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+            "config": "55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png, enabled=false"
         },
         {
             "config": "20 13 * * 6 https://jdsharedresourcescdn.azureedge.net/jdresource/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
@@ -217,7 +217,7 @@
             "config": "1 9,12,18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxnc.js, tag=京喜农场1, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
         },
         {
-            "config": "5 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场2, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
+            "config": "5 9,12,18 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js, tag=京喜农场2, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png, enabled=false"
         },
         {
             "config": "5 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"

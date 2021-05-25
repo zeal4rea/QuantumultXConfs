@@ -3,6 +3,9 @@
     "name": "Zeal4Rea JD Task Gallery",
     "task": [
         {
+            "config": "15 9,20 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_superbox.js, tag=京东超级盒子, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+        },
+        {
             "config": "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car.js, tag=京东汽车, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {

@@ -3,6 +3,12 @@
     "name": "Zeal4Rea JD Task Gallery",
     "task": [
         {
+            "config": "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car.js, tag=京东汽车, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+        },
+        {
+            "config": "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+        },
+        {
             "config": "13 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_zoo.js, tag=618动物联萌, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {

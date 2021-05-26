@@ -3,6 +3,9 @@
     "name": "Zeal4Rea JD Task Gallery",
     "task": [
         {
+            "config": "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_jxhb.js, tag=京喜阶梯红包, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jingxi.png"
+        },
+        {
             "config": "15 9,20 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_newInteraction.js, tag=618大势新品赏, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {

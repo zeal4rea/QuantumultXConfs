@@ -3,6 +3,9 @@
     "name": "Zeal4Rea JD Task Gallery",
     "task": [
         {
+            "config": "40 9-18/3 * 5,6 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xtg.js, tag=京东星推官, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+        },
+        {
             "config": "40 9-18/3 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_star.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {

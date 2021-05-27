@@ -3,10 +3,10 @@
     "name": "Zeal4Rea JD Task Gallery",
     "task": [
         {
-            "config": "0 0,9,15 * 5,6 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xtg.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+            "config": "0 0 * 5,6 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_xtg.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {
-            "config": "0 0,9,15 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_star.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png"
+            "config": "0 0 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_star.js, tag=家电星推官, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png"
         },
         {
             "config": "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_jxhb.js, tag=京喜阶梯红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png"

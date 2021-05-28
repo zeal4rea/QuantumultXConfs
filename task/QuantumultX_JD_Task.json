@@ -54,9 +54,6 @@
             "config": "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js, tag=飞利浦电视成长记, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png"
         },
         {
-            "config": "5 8,14,20 19-25 5 *  https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_mother_jump.js, tag=母婴-跳一跳, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
-        },
-        {
             "config": "5 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融活动, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
         },
         {

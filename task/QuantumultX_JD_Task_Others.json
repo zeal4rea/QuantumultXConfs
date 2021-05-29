@@ -1,0 +1,27 @@
+{
+    "description": "jd task scripts",
+    "name": "Other JD Tasks",
+    "task": [
+        {
+            "config": "1 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+        },
+        {
+            "config": "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/longzhuzhu.png"
+        },
+        {
+            "config": "30 16-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点京豆雨, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/longzhuzhu.png"
+        },
+        {
+            "config": "5 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融活动, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/dompling.png"
+        },
+        {
+            "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
+            "config": "30 0,30 * * * * https://raw.githubusercontent.com/xbt370/Collection/master/Script/jd_live_lottery_social.js, tag=直播间抽奖, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png, enabled=false"
+        },
+        {
+            "config": "0 0 0 * * * https://raw.githubusercontent.com/LucaLin233/QuantumultX-Personal-Configuration/main/Profile/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jingxi.png"
+        }
+    ]
+}

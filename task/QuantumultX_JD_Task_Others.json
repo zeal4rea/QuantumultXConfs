@@ -3,6 +3,9 @@
     "name": "Other JD Tasks",
     "task": [
         {
+            "config": "0 10 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zy_618jc.js, tag=618手机竞猜, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "15 0,6,13,19,21 * * * https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=京享值PK, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {

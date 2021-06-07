@@ -9,9 +9,6 @@
             "config": "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_jxhb.js, tag=京喜阶梯红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png, enabled=false"
         },
         {
-            "config": "15 9,20 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_newInteraction.js, tag=618大势新品赏, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png, enabled=false"
-        },
-        {
             "config": "15 9,20 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_superbox.js, tag=京东超级盒子, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png, enabled=false"
         },
         {
@@ -31,12 +28,6 @@
         },
         {
             "config": "0 0,1-22/2 1-31 4-7 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/monk_pasture.js, tag=有机牧场, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/adolf.png, enabled=false"
-        },
-        {
-            "config": "1 0-23/4 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_city_cash.js, tag=城城分现金, img-url=https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/img/icon.png, enabled=false"
-        },
-        {
-            "config": "1 0-23/4 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_carnivalcity.js, tag=手机狂欢城, img-url=https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/img/icon.png"
         }
     ]
 }

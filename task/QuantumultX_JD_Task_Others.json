@@ -3,6 +3,9 @@
     "name": "Other JD Tasks",
     "task": [
         {
+            "config": "0 10 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_coin.js, tag=京喜牧场刷金币, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+        },
+        {
             "config": "0,2 0 * * * https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js, tag=柠檬省钱大赢家, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {

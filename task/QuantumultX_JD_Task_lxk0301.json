@@ -3,6 +3,9 @@
     "name": "JD Tasks From lxk0301",
     "task": [
         {
+            "config": "20 0-23/3 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxmc.js, tag=惊喜牧场, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxlhb.js, tag=京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {

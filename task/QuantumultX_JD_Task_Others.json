@@ -3,6 +3,12 @@
     "name": "Other JD Tasks",
     "task": [
         {
+            "config": "0,2 0 * * * https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js, tag=柠檬省钱大赢家, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
+            "config": "8 0 * 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJx88hongbao.js, tag=京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+        },
+        {
             "config": "15 12 1-18 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLimitbox.js, tag=限时盲盒, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
         },
         {

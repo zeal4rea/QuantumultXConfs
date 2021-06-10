@@ -33,6 +33,9 @@
             "config": "13 0-23/2 * * * jd_zoo.js, tag=618动物联萌, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
+            "config": "0-59/30 * * * * jd_zooCollect.js, tag=618动物联萌收集金币, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "1 0,11,21 * * * jd_jump.js, tag=跳跳乐瓜分京豆, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {

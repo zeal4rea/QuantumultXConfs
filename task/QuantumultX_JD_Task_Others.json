@@ -15,7 +15,13 @@
             "config": "5,35 3-23 * 6 * https://raw.githubusercontent.com/jiulan/platypus/main/scripts/jd_ffl.js, tag=翻翻乐提现, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "0 10 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_coin.js, tag=京喜牧场刷金币, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+            "config": "0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc.js, tag=M京喜牧场, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+        },
+        {
+            "config": "0 10 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_coin.js, tag=M京喜牧场刷金币, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+        },
+        {
+            "config": "0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_emptycabbage.js, tag=M京京喜牧场清空白菜, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
         },
         {
             "config": "0,2 0 * * * https://raw.githubusercontent.com/panghu999/panghu/master/jd_sqdyj.js, tag=柠檬省钱大赢家, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"

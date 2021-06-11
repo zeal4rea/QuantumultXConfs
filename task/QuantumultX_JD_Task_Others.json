@@ -3,6 +3,9 @@
     "name": "Other JD Tasks",
     "task": [
         {
+            "config": "5 * * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=Y动物联萌, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "10 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jd_dreamFactory.js, tag=pb京喜工厂, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jingxi.png"
         },
         {

@@ -81,7 +81,7 @@
             "config": "13 1,22 * * * jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "5-45/20 * * * * jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+            "config": "5-45/20 0-4 * * * jd_health_collect.js, tag=东东健康社区收集能量, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "10 * * * * jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"

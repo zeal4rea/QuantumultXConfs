@@ -3,7 +3,7 @@
     "name": "Other JD Tasks",
     "task": [
         {
-            "config": "15 0,6,13,19,21 * * * https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=H京享值PK, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+            "config": "15 0,6,13,19,21 * * * https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=ddo京享值PK, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "5 * * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_zoo.js, tag=Y动物联萌, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
@@ -46,9 +46,6 @@
         },
         {
             "config": "23 0 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/zy_618jc.js, tag=618手机竞猜, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
-        },
-        {
-            "config": "15 0,6,13,19,21 * * * https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=京享值PK, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "15 9 1-18 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooBrandcity.js, tag=Z新潮品牌狂欢, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"

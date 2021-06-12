@@ -69,6 +69,9 @@
             "config": "10 * * * * jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
+            "config": "1 8,12,18 * * * jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "1 12,23 * * * jd_family.js, tag=京东家庭号, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {

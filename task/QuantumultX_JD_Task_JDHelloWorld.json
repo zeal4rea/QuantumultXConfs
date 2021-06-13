@@ -69,7 +69,7 @@
             "config": "10 * * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_daily_egg.js, tag=HW天天提鹅, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "1 8,12,18 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+            "config": "1 8,12,18 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_bookshop.js, tag=HW口袋书店, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "1 12,23 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_family.js, tag=HW京东家庭号, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"

@@ -36,13 +36,13 @@
             "config": "0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_emptycabbage.js, tag=M京喜牧场清空白菜, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jingxi.png"
         },
         {
-            "config": "8 0 * 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJx88hongbao.js, tag=Z京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+            "config": "8 0 * 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJx88hongbao.js, tag=zoo京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
         },
         {
-            "config": "15 12 1-18 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLimitbox.js, tag=Z限时盲盒, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+            "config": "15 12 1-18 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLimitbox.js, tag=zoo限时盲盒, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
         },
         {
-            "config": "15 9 1-18 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooBrandcity.js, tag=Z新潮品牌狂欢, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+            "config": "15 9 1-18 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooBrandcity.js, tag=zoo新潮品牌狂欢, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
         },
         {
             "config": "30 7,9 1-18 6 * https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_limitBox.js, tag=W618限时盲盒, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"

@@ -36,6 +36,9 @@
             "config": "0 * * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_mc_emptycabbage.js, tag=M京喜牧场清空白菜, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jingxi.png"
         },
         {
+            "config": "15 10 * * * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooElecsport.js, tag=zoo东东电竞经理, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
+        },
+        {
             "config": "8 0 * 6 * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJx88hongbao.js, tag=zoo京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/zoo.png"
         },
         {

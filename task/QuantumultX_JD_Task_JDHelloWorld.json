@@ -9,9 +9,6 @@
             "config": "4 10 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxlhb.js, tag=HW京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "4 10 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_mcxhd.js, tag=HW新潮品牌狂欢, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
-        },
-        {
             "config": "0 1,21 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_star_shop.js, tag=HW明星小店, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
@@ -21,19 +18,10 @@
             "config": "13 1,22 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_gold_creator.js, tag=HW金牌创造营, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "0 0 * 5,6 * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_xtg.js, tag=HW家电星推官, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
-        },
-        {
             "config": "10 7 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_car.js, tag=HW京东汽车, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "0 0 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_car_exchange.js, tag=HW京东汽车兑换, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
-        },
-        {
-            "config": "13 0-23/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_zoo.js, tag=HW618动物联萌, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
-        },
-        {
-            "config": "13 0-23/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_zooCollect.js, tag=HW618动物联萌收集金币, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "1 0,11,21 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jump.js, tag=HW跳跳乐瓜分京豆, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
@@ -112,9 +100,6 @@
             "config": "10-20/5 12 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_live.js, tag=HW京东直播, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "0,30 0-23/1 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_live_redrain.js, tag=HW超级直播间红包雨, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
-        },
-        {
             "config": "4 10 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_market_lottery.js, tag=HW幸运大转盘, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
@@ -125,9 +110,6 @@
         },
         {
             "config": "10 0,20 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_necklace.js, tag=HW点点券, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
-        },
-        {
-            "config": "35 1,23 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_nzmh.js, tag=HW女装盲盒, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "15 6-18/6 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_pet.js, tag=HW东东萌宠, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"

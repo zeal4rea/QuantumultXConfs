@@ -66,7 +66,7 @@
             "config": "5 6-18/6 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_fruit.js, tag=HW东东农场, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "13 1,22 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_health.js, tag=HW东东健康社区, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+            "config": "13 1,6,22 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_health.js, tag=HW东东健康社区, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
             "config": "5-45/20 0-4 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_health_collect.js, tag=HW东东健康社区收集能量, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"

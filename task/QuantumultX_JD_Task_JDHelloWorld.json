@@ -3,10 +3,13 @@
     "name": "JD Tasks From JDHelloWorld",
     "task": [
         {
-            "config": "20 0-23/3 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxmc.js, tag=HW惊喜牧场, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+            "config": "0 0-23/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_EsportsManager.js, tag=HW电竞经理, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
-            "config": "4 10 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxlhb.js, tag=HW京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+            "config": "20 0-23/3 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxmc.js, tag=HW京喜牧场, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jingxi.png"
+        },
+        {
+            "config": "4 10 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxlhb.js, tag=HW京喜领88元红包, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jingxi.png"
         },
         {
             "config": "0 1,21 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_star_shop.js, tag=HW明星小店, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"

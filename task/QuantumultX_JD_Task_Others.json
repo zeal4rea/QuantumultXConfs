@@ -3,6 +3,9 @@
     "name": "Other JD Tasks",
     "task": [
         {
+            "config": "15 0,6,13,19,21 * * * https://raw.githubusercontent.com/hyzaw/scripts/main/ddo_pk.js, tag=ddo京享值PK, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "20 0-23/3 * * * https://raw.githubusercontent.com/star261/jd/main/scripts/jd_jxmc.js, tag=star惊喜牧场, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jingxi.png"
         },
         {

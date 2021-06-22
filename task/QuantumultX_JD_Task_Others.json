@@ -48,6 +48,9 @@
             "config": "11 1 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=Y京东抽奖机, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {
+            "config": "0 10 * * * https://raw.githubusercontent.com/panghu999/panghu/master/jd_qmwxj.js, tag=panghu全民挖现金, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "5 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融活动, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/dompling.png"
         },
         {

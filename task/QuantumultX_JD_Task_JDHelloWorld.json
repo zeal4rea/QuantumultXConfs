@@ -3,6 +3,9 @@
     "name": "JD Tasks From JDHelloWorld",
     "task": [
         {
+            "config": "15 0-23/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_joy_new.js, tag=HW宠汪汪二代目, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
+        },
+        {
             "config": "0 0-23/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_EsportsManager.js, tag=HW电竞经理, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/jd.png"
         },
         {

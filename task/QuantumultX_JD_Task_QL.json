@@ -27,7 +27,7 @@
             "config": "5-45/20 * * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_health_collect.js, tag=QL东东健康社区收集能量, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
         },
         {
-            "config": "0 0-23/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_EsportsManager.js, tag=QL电竞经理, img-url=https://raw.githubusercontent.com/JDHelloWorld/jd_scripts_demo/main/jd_EsportsManager.png"
+            "config": "0 0-23/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_EsportsManager.js, tag=QL电竞经理, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
         },
         {
             "config": "1 12,23 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_rankingList.js, tag=QL京东排行榜, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"

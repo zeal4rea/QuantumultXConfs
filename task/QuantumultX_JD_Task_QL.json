@@ -1,5 +1,5 @@
 {
-    "description": "",
+    "description": "JD Tasks running in QL",
     "name": "QL running JD Tasks",
     "task": [
         {
@@ -91,6 +91,9 @@
         },
         {
             "config": "8 0-23/3 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_speed.js, tag=QL京东天天加速, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdjs.png"
+        },
+        {
+            "config": "1 8,12,18 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_bookshop.js, tag=QL口袋书店, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
         },
         {
             "config": "20 8 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_sgmh.js, tag=QL闪购盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"

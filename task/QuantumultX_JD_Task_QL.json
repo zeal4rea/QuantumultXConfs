@@ -87,6 +87,12 @@
             "config": "10 0 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jdzz.js, tag=QL京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png"
         },
         {
+            "config": "10 * * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_dreamFactory.js, tag=QL京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png"
+        },
+        {
+            "config": "1 9,12,18 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxnc.js, tag=QL京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png"
+        }
+        {
             "config": "10 * * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_daily_egg.js, tag=QL天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png"
         },
         {

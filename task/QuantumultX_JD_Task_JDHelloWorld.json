@@ -3,22 +3,28 @@
     "name": "JD Tasks From JDHelloWorld",
     "task": [
         {
-            "config": "55 23 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_bean_change.js, tag=HW京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
-        },
-        {
             "config": "5 6-18/6 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_fruit.js, tag=HW东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png"
         },
         {
             "config": "10 * * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jdfactory.js, tag=HW东东工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png"
         },
         {
-            "config": "10 0,20 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_necklace.js, tag=HW点点券, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
+            "config": "10 * * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_dreamFactory.js, tag=HW京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png"
+        },
+        {
+            "config": "1 9,12,18 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxnc.js, tag=HW京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png"
         },
         {
             "config": "15 6-18/6 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_pet.js, tag=HW东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png"
         },
         {
             "config": "1 7-21/2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_plantBean.js, tag=HW京东种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png"
+        },
+        {
+            "config": "5 0,8,13,19 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_cfd.js, tag=HW京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
+        },
+        {
+            "config": "10 0,20 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_necklace.js, tag=HW点点券, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
         },
         {
             "config": "0 2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_price.js, tag=HW京东保价, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
@@ -30,13 +36,7 @@
             "config": "20 13 * * 6 https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_get_share_code.js, tag=HW获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=false"
         },
         {
-            "config": "5 0,8,13,19 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_cfd.js, tag=HW京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
-        },
-        {
-            "config": "10 * * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_dreamFactory.js, tag=HW京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png"
-        },
-        {
-            "config": "1 9,12,18 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_jxnc.js, tag=HW京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png"
+            "config": "55 23 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_bean_change.js, tag=HW京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
         }
     ]
 }

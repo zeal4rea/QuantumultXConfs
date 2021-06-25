@@ -24,9 +24,6 @@
             "config": "5 0,8,13,19 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_cfd.js, tag=HW京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
         },
         {
-            "config": "10 0,20 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_necklace.js, tag=HW点点券, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
-        },
-        {
             "config": "0 2 * * * https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/jd_price.js, tag=HW京东保价, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
         },
         {

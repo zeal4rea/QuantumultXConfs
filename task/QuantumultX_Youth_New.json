@@ -4,11 +4,11 @@
     "task": [
         {
             "config": "35 30 0-13 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=新版中青看点阅读, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
-            "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthRead_Rewrite_new.txt, tag=新版中青看点阅读重写"
+            "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthRead_Rewrite_New.txt, tag=新版中青看点阅读重写"
         },
         {
             "config": "0 0,7 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=新版中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
-            "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthGain_Rewrite.txt, tag=新版中青看点看看赚&浏览赚重写"
+            "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthGain_Rewrite_New.txt, tag=新版中青看点看看赚&浏览赚重写"
         },
         {
             "config": "*/14 5-23 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, enabled=true, tag=新版中青看点极速版, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png"

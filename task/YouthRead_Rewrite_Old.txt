@@ -1,0 +1,4 @@
+#旧版中青看点极速版(2.0.2)
+hostname = ios.baertt.com
+https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json url script-request-header Youth_Read.js
+https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json url script-request-body Youth_Read.js

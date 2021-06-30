@@ -4,7 +4,7 @@
 #https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json url script-request-body https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js
 
 #新版中青看点极速版(2.1.0+)
-hostname = ios.baertt.com, kandian.wkandian.com
+hostname = kd.youth.cn, kandian.wkandian.com
 https:\/\/kandian\.wkandian\.com\/v5\/article\/info\.json url script-request-header https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js
 https:\/\/kandian\.wkandian\.com\/v5\/article\/complete\.json url script-request-body https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js
 https:\/\/kandian\.wkandian\.com/v5\/user\/stay\.json url script-request-body https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js

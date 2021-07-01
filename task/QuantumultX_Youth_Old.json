@@ -1,13 +1,13 @@
 {
-    "description": "中青看点新版(2.0.2+)",
-    "name": "Zeal4Rea New Youth Task Gallery",
+    "description": "中青看点旧版(2.0.2)",
+    "name": "Zeal4Rea Old Local Youth Task Gallery",
     "task": [
         {
-            "config": "35 30 0-13 * * * Youth_Read.js, tag=旧版中青看点阅读, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
+            "config": "35 30 */2 * * * Youth_Read.js, tag=旧版中青看点阅读, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
             "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthRead_Rewrite_Old.txt, tag=旧版中青看点阅读重写"
         },
         {
-            "config": "0 0,7 * * * youth_gain.js, tag=旧版中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
+            "config": "0 0,12 * * * youth_gain.js, tag=旧版中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
             "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthGain_Rewrite_Old.txt, tag=旧版中青看点看看赚&浏览赚重写"
         },
         {

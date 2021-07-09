@@ -3,7 +3,7 @@
     "name": "Zeal4Rea Old Local Youth Task Gallery",
     "task": [
         {
-            "config": "35 30 0-23/3 * * * Youth_Read.js, tag=旧版中青看点阅读, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
+            "config": "35 30 */3 * * * Youth_Read.js, tag=旧版中青看点阅读, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
             "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthRead_Rewrite_Old.txt, tag=旧版中青看点阅读重写"
         },
         {

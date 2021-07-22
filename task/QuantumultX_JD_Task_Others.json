@@ -9,9 +9,6 @@
             "config": "5 6-18/6 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jd_fruit2.js, tag=pb东东农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png"
         },
         {
-            "config": "5 8,13,19 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jd_cfd2.js, tag=pb京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
-        },
-        {
             "config": "1 0-23/1 * * * https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/long_super_redrain.js, tag=lz整点京豆雨, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/longzhuzhu.png"
         },
         {
@@ -21,7 +18,7 @@
             "config": "5 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融活动, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/dompling.png"
         },
         {
-            "config": "0 0 0 * * * https://raw.githubusercontent.com/LucaLin233/QuantumultX-Personal-Configuration/main/Profile/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
+            "config": "59 11,12,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
         },
         {
             "config": "1 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"

@@ -3,6 +3,12 @@
     "name": "Other JD Tasks",
     "task": [
         {
+            "config": "59 23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png"
+        },
+        {
+            "config": "59 11,12,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
+        },
+        {
             "config": "10 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jd_dreamFactory2.js, tag=pb京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png"
         },
         {
@@ -16,9 +22,6 @@
         },
         {
             "config": "5 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融活动, img-url=https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/icons/dompling.png"
-        },
-        {
-            "config": "59 11,12,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
         },
         {
             "config": "1 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"

@@ -7,7 +7,7 @@
             "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthRead_Rewrite_Old.txt, tag=旧版中青看点阅读重写"
         },
         {
-            "config": "0 0,12 * * * youth_gain.js, tag=旧版中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
+            "config": "30 5,13 * * * youth_gain.js, tag=旧版中青看点看看赚&浏览赚, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/youth.png",
             "addons":"https://raw.githubusercontent.com/zeal4rea/QuantumultXConfs/main/task/YouthGain_Rewrite_Old.txt, tag=旧版中青看点看看赚&浏览赚重写"
         },
         {

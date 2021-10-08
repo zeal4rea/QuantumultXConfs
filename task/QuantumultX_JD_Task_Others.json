@@ -9,6 +9,9 @@
             "config": "59 11,12,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfdtx.js, tag=AV京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
         },
         {
+            "config": "55 23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_bean_change.js, tag=AV京东资产变动通知, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/color/jd.png"
+        },
+        {
             "config": "10 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jd_dreamFactory2.js, tag=pb京喜工厂, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png"
         },
         {
